@@ -1,0 +1,28 @@
+.button {
+    display: inline-block;
+    margin-right:20px;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+.button:hover{
+    color: black;
+}
+.grey-row{
+    background-color: gray;
+    padding: 10px;
+}
+.call:hover{
+    color: black;
+}
+.call{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+.call:hover{
+    color: black;
+}
+  
+ 
